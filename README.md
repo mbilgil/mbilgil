@@ -1,16 +1,59 @@
-### Hi there 👋
+### Hey 👋🏽, I'm [Mehmet!](https://mbilgil.github.io/) 
 
-<!--
-**mbilgil/mbilgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/m_bilgil">
+  <img align="left" alt="Mehmet Bilgil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/mehmetbilgil/">
+  <img align="left" alt="Mehmet's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/mbilgill/">
+  <img align="left" alt="Mehmet's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://dev.to/mbilgil">
+  <img align="left" alt="Mehmet's Dev.to" width="22px" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" />
+</a>
+<a href="https://medium.com/@mbilgil0">
+  <img align="left" alt="Mehmet's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Mehmet, a Full Stack Developer  from Turkey 
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+**Talking about Personal Stuffs:**
+
+- 🌱 💻I’m currently learning React.js and Java Spring; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: mbilgil@yaani.com;
+- 📝[Resume](https://mbilgil.github.io/)
+
+**Languages and Tools:**  
+
+<code><img height="30" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg"></code>
+<code><img height="30" src="https://spring.io/images/OG-Spring.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+
+![Mehmet's github stats](https://github-readme-stats.vercel.app/api?username=mbilgil&show_icons=true&hide_border=true)
+
+⭐️ From [mbilgil](https://github.com/mbilgil)
+
+
+<a href="https://github.com/mbilgil/Covid19">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mbilgil&repo=Covid19" />
+</a>
+
+<a href="https://github.com/mbilgil/TodoApp">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mbilgil&repo=TodoApp" />
+</a>
+
+
