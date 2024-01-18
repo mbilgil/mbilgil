@@ -21,8 +21,6 @@
 
 Hi, I'm Mehmet, a Full Stack Developer  from Turkey 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
 **Talking about Personal Stuffs:**
 
 - 🌱 💻I’m currently learning React.js and Java Spring; 
