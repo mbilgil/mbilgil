@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/mehmetbilgil/">
   <img align="left" alt="Mehmet's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/mbilgill/">
-  <img align="left" alt="Mehmet's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://dev.to/mbilgil">
   <img align="left" alt="Mehmet's Dev.to" width="22px" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" />
 </a>
